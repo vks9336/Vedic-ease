@@ -63,6 +63,7 @@ import {
   Home,
   User,
   ChevronRight,
+  LogOut,
 } from "lucide-react";
 
 export const DoctorDashboard = () => {
